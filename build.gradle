@@ -21,7 +21,7 @@ publishedLibs << 'application'
 publishedLibs << 'core'
 publishedLibs << 'server'
 configure(subprojects.findAll {publishedLibs.contains(it.name)}){
-    group 'com.github.AfricasTalkingLtd'
+    group 'com.github.bensonokiora'
     version '3.4.7'
 
     apply plugin: 'java'
