@@ -22,7 +22,7 @@ You can depend on the jars through Maven (from `https://jitpack.io`):
 </repositories>
 ...
 <dependency>
-  <groupId>com.github.AfricasTalkingLtd.africastalking-java</groupId>
+  <groupId>com.github.bensonokiora.africastalking-java</groupId>
   <artifactId>core</artifactId>
   <version>3.4.8</version>
 </dependency>
